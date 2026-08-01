@@ -1,7 +1,17 @@
 # Netflix Content & Demographic Strategy Analysis
 
 ## Project Overview
+
 This project delivers an interactive Power BI dashboard designed to evaluate Netflix's content catalog. By transforming and visualizing raw catalog data, the report uncovers core business strategies around audience targeting, content formats, and global acquisition.
+## Dashboard Preview
+
+### Page 1: Overview & Catalog Analysis
+![Dashboard Page 1](Netflix_dashboard_preview1.png)
+
+---
+
+### Page 2: Detailed Insights & Demographics
+![Dashboard Page 2](Netflix_dashboard_preview2.png)
 
 ## Strategic Insights
 * Target Demographic: Overwhelmingly skewed toward Adults and Teens. Content rated TV-MA and R accounts for over 5,500 titles, while TV-14 represents the second-largest segment. Dedicated children's content represents a minor fraction of the catalog.
